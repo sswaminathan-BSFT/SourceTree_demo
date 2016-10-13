@@ -49,6 +49,8 @@ public class MainActivity extends AppCompatActivity {
 
 // new line
 
+// conflit test        
+
 
 
         return super.onOptionsItemSelected(item);
